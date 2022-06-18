@@ -657,7 +657,7 @@ opacity:1;
 
 
 section#about{
-background:url("Pictures/Screenshots/blackAndWhiteUserImg.png");
+background:url("blackAndWhiteUserImg.png");
 object-fit:cover;
 }
 
@@ -698,7 +698,7 @@ section#contact{
 display:flex;
 align-items:center;
 justify-content:center;
-background:url("Download/laptop.jpg");
+background:url("laptop.jpg");
 object-fit:contain;
 text-align:center;
 flex-wrap:wrap;
